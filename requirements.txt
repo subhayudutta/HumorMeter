@@ -1,0 +1,9 @@
+Flask
+scikit-learn
+pandas
+numpy
+matplotlib
+gunicorn
+nltk
+tensorflow
+h5py
